@@ -1,20 +1,14 @@
 # frontend
+ 
+URL
+https://nuxtapps-294318.web.app
 
-## Build Setup
+usuario: eduardo@mail.com
+password: password
 
-```bash
-# install dependencies
-$ npm install
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+#backend
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+URL
+https://fathomless-reaches-46743.herokuapp.com/api
 
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
